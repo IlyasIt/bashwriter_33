@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbe6edce2d3729fde74d72761e34ef7f",
+    "revision": "d83fe8ba18fc0c19e209cd46bc595f2c",
     "url": "/bashwriter_33/index.html"
   },
   {
-    "revision": "2acc9f7a15b22bdce51e",
+    "revision": "2feb307e9069e2e934dd",
     "url": "/bashwriter_33/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "8c8b0ad41cd8d08b9956",
+    "revision": "3d9587aef35ecb6aaafe",
     "url": "/bashwriter_33/static/css/main.5a51060a.chunk.css"
   },
   {
-    "revision": "2acc9f7a15b22bdce51e",
-    "url": "/bashwriter_33/static/js/2.4b78c48a.chunk.js"
+    "revision": "2feb307e9069e2e934dd",
+    "url": "/bashwriter_33/static/js/2.b4c56b4c.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/bashwriter_33/static/js/2.4b78c48a.chunk.js.LICENSE.txt"
+    "url": "/bashwriter_33/static/js/2.b4c56b4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c8b0ad41cd8d08b9956",
-    "url": "/bashwriter_33/static/js/main.674b6b5b.chunk.js"
+    "revision": "3d9587aef35ecb6aaafe",
+    "url": "/bashwriter_33/static/js/main.30891ab9.chunk.js"
   },
   {
     "revision": "5c57a7289f0f99c8d2dc",
