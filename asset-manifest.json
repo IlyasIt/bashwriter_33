@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bashwriter_33/static/css/main.5a51060a.chunk.css",
-    "main.js": "/bashwriter_33/static/js/main.938d1192.chunk.js",
-    "main.js.map": "/bashwriter_33/static/js/main.938d1192.chunk.js.map",
+    "main.js": "/bashwriter_33/static/js/main.39ccf546.chunk.js",
+    "main.js.map": "/bashwriter_33/static/js/main.39ccf546.chunk.js.map",
     "runtime-main.js": "/bashwriter_33/static/js/runtime-main.524bac97.js",
     "runtime-main.js.map": "/bashwriter_33/static/js/runtime-main.524bac97.js.map",
     "static/css/2.86df01db.chunk.css": "/bashwriter_33/static/css/2.86df01db.chunk.css",
     "static/js/2.f3ff8388.chunk.js": "/bashwriter_33/static/js/2.f3ff8388.chunk.js",
     "static/js/2.f3ff8388.chunk.js.map": "/bashwriter_33/static/js/2.f3ff8388.chunk.js.map",
     "index.html": "/bashwriter_33/index.html",
-    "precache-manifest.e2cbb0a3aed1f82a5abe5bc69d298d78.js": "/bashwriter_33/precache-manifest.e2cbb0a3aed1f82a5abe5bc69d298d78.js",
+    "precache-manifest.8757b251ba6de3aa66fc7752581a3629.js": "/bashwriter_33/precache-manifest.8757b251ba6de3aa66fc7752581a3629.js",
     "service-worker.js": "/bashwriter_33/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/bashwriter_33/static/css/2.86df01db.chunk.css.map",
     "static/css/main.5a51060a.chunk.css.map": "/bashwriter_33/static/css/main.5a51060a.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.f3ff8388.chunk.js",
     "static/css/main.5a51060a.chunk.css",
-    "static/js/main.938d1192.chunk.js"
+    "static/js/main.39ccf546.chunk.js"
   ]
 }
