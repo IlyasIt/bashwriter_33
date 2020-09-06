@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/bashwriter_33/static/css/main.705bf80d.chunk.css",
-    "main.js": "/bashwriter_33/static/js/main.fff54f5e.chunk.js",
-    "main.js.map": "/bashwriter_33/static/js/main.fff54f5e.chunk.js.map",
+    "main.js": "/bashwriter_33/static/js/main.0d6811b8.chunk.js",
+    "main.js.map": "/bashwriter_33/static/js/main.0d6811b8.chunk.js.map",
     "runtime-main.js": "/bashwriter_33/static/js/runtime-main.524bac97.js",
     "runtime-main.js.map": "/bashwriter_33/static/js/runtime-main.524bac97.js.map",
     "static/css/2.86df01db.chunk.css": "/bashwriter_33/static/css/2.86df01db.chunk.css",
-    "static/js/2.8ce37c3e.chunk.js": "/bashwriter_33/static/js/2.8ce37c3e.chunk.js",
-    "static/js/2.8ce37c3e.chunk.js.map": "/bashwriter_33/static/js/2.8ce37c3e.chunk.js.map",
+    "static/js/2.b1a67772.chunk.js": "/bashwriter_33/static/js/2.b1a67772.chunk.js",
+    "static/js/2.b1a67772.chunk.js.map": "/bashwriter_33/static/js/2.b1a67772.chunk.js.map",
     "index.html": "/bashwriter_33/index.html",
-    "precache-manifest.3fb01c01a7b4666a1fc22ae66bbd80ad.js": "/bashwriter_33/precache-manifest.3fb01c01a7b4666a1fc22ae66bbd80ad.js",
+    "precache-manifest.b1727fb16557401bb56ccc41297cb7c4.js": "/bashwriter_33/precache-manifest.b1727fb16557401bb56ccc41297cb7c4.js",
     "service-worker.js": "/bashwriter_33/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/bashwriter_33/static/css/2.86df01db.chunk.css.map",
     "static/css/main.705bf80d.chunk.css.map": "/bashwriter_33/static/css/main.705bf80d.chunk.css.map",
-    "static/js/2.8ce37c3e.chunk.js.LICENSE.txt": "/bashwriter_33/static/js/2.8ce37c3e.chunk.js.LICENSE.txt",
+    "static/js/2.b1a67772.chunk.js.LICENSE.txt": "/bashwriter_33/static/js/2.b1a67772.chunk.js.LICENSE.txt",
     "static/media/Style.css": "/bashwriter_33/static/media/Tibalt.9e5b511a.ttf",
     "static/media/AvatarApp.png": "/bashwriter_33/static/media/AvatarApp.37f48d0d.png",
     "static/media/arrow.svg": "/bashwriter_33/static/media/arrow.7aac8323.svg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.524bac97.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.8ce37c3e.chunk.js",
+    "static/js/2.b1a67772.chunk.js",
     "static/css/main.705bf80d.chunk.css",
-    "static/js/main.fff54f5e.chunk.js"
+    "static/js/main.0d6811b8.chunk.js"
   ]
 }
